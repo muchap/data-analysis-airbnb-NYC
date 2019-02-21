@@ -1,4 +1,4 @@
-# Practical Machine Learning - Airbnb Listing in New Yor City Dataset
+# Exploratory data analysis - Airbnb in NYCity Dataset
 
 This paper looks at the Airbnb Listing in New Yor City Dataset and aims to build a model that can accurately predict the price of renting a property based in NYC based on its features. The dataset contains several variables describing the owner (Host Id, Host Since) and the property like Neighbourhood and Zipcode location, Property type (apartment or house), room type, beds, reviews, price. Using these variables a couple of patterns are identified, analyzed and interpreted. The last step was to run a machine learning model (gradient boosted decision trees algorithm - XGBoost) to predict the rental price of the properties.
 
